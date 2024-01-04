@@ -1,0 +1,26 @@
+                                      E CART FRONT END
+                            .......................................
+
+1. project creation - npx create-react-app ekart-redux
+2. cd ekart-redux
+3. code .
+4. run project - npm start
+5. clear the unwanted codes 
+6. install 3rd party libraries
+         : react bootstrap -> npm install react-bootstrap bootstrap
+         : mdb bootstrap -> npm i mdb-react-ui-kit
+         : font awesome -> npm i @fortawesome/fontawesome-free
+         : bootswatch
+         : google fonts
+7. components creation
+         : pages
+               -> Home.jsx
+               -> Cart.jsx
+               -> WishList.jsx
+               -> PageNotFound.jsx
+         : components
+               -> Header.jsx
+               -> Footer.jsx
+8. Path setup 
+         : installation : npm i react-router-dom
+9. page designing
